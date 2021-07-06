@@ -10,11 +10,20 @@ body{
 .h3{
     font-size: 60px;
 }
-
+.fish{
+    color:orange;
+}
+.flexing{ 
+    display: flex;
+    
+}
 .hello{
     width: 50%;
     padding-left: 5%;
     padding-right: 10%;
+}
+#hilo{
+    margin-top: 181px;
 }
 .link{
     text-decoration: none;
@@ -25,3 +34,16 @@ body{
     font-weight: 700;
     background-image: linear-gradient( orange, tomato);
 }
+.top-page{
+    background-image: url(Images/background-image\(1\).png);
+}
+
+    .dev{
+        box-shadow: 10px 10px 40px gray;
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 10px;
+        border-radius: 5px;
+
+    }
