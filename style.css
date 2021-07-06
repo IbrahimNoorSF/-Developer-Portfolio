@@ -1,0 +1,73 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.h1{
+    font-size: 50px;
+}
+.h2{
+    font-size: 30px;
+}
+.h3{
+    font-size: 60px;
+}
+.fish{
+    color:orange;
+}
+.flexing{ 
+    display: flex;
+    
+}
+.hello{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+#hilo{
+    margin-top: 181px;
+}
+.link{
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+    background-image: linear-gradient( orange, tomato);
+}
+.top-page{
+    background-image: url(Images/background-image\(1\).png);
+}
+
+    .dev{
+        box-shadow: 10px 10px 40px gray;
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 10px;
+        border-radius: 5px;
+
+    }
+    #f{
+        font-size: 40px;
+    }
+    .new-sec{
+        background-image: url(Images/background-image\(2\).png);
+        }
+        #baby{
+            border-left: 7px solid;
+            border-image: linear-gradient(yellow,salmon);
+            border-image-slice: 1;
+
+    }
+    #pro{
+        border-left: 7px solid;
+        border-image: linear-gradient(salmon, yellow);
+        border-image-slice: 1;
+    }
+
+    #pic{
+        width: 50%;
+    }
+    #bye{
+        margin-top: 378px;
+    }
