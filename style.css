@@ -35,7 +35,7 @@ body{
     background-image: linear-gradient( orange, tomato);
 }
 .top-page{
-    background-image: url(Images/background-image.png);
+    background-image: url(Images/background-image\(1\).png);
 }
 
     .dev{
@@ -51,8 +51,8 @@ body{
         font-size: 40px;
     }
     .new-sec{
-        background-image: url(Images/background-image2.png);
-    }
+        background-image: url(Images/background-image\(2\).png);
+        }
         #baby{
             border-left: 7px solid;
             border-image: linear-gradient(yellow,salmon);
@@ -63,4 +63,11 @@ body{
         border-left: 7px solid;
         border-image: linear-gradient(salmon, yellow);
         border-image-slice: 1;
+    }
+
+    #pic{
+        width: 50%;
+    }
+    #bye{
+        margin-top: 378px;
     }
